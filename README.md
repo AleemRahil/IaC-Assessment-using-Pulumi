@@ -1,6 +1,6 @@
 # IaC-Assessment-using-Pulumi
 
-Sure, here's a detailed explanation of the Pulumi code:
+Please check the main.py file for complete code!
 
 1. **Create a new VPC**: This creates a new Virtual Private Cloud (VPC) in AWS. A VPC is a virtual network dedicated to your AWS account. It is logically isolated from other virtual networks in the AWS Cloud.
 
